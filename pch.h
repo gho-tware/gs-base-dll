@@ -9,5 +9,7 @@
 
 // adicione os cabeçalhos que você deseja pré-compilar aqui
 #include "framework.h"
+#include <windows.h>
+#include <d3d11.h>
 
 #endif //PCH_H
